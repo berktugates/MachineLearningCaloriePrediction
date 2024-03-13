@@ -1,0 +1,33 @@
+# VS Code ayar dosyaları
+.vscode/
+
+# Python bytecode
+*.pyc
+
+# Veri dosyaları
+data/
+
+# Jupyter Notebook
+*.ipynb
+
+# Makine Öğrenimi modelleri
+*.pkl
+*.h5
+
+# Geçici dosyalar
+__pycache__/
+
+# Log dosyaları
+*.log
+
+# Çıktı dosyaları
+*.out
+
+# Raporlar
+*.html
+
+# Visual Studio Code ayarları
+.settings/
+
+# Python sanal ortamı
+venv/

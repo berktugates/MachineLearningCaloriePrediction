@@ -7,9 +7,6 @@
 # Veri dosyaları
 data/
 
-# Jupyter Notebook
-*.ipynb
-
 # Makine Öğrenimi modelleri
 *.pkl
 *.h5
